@@ -1,0 +1,6 @@
+starlette
+gunicorn
+uvicorn
+aiofiles
+jinja2
+fastai
