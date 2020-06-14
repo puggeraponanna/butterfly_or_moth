@@ -3,4 +3,5 @@ gunicorn
 uvicorn
 aiofiles
 jinja2
+torch==1.5.0+cpu
 fastai
